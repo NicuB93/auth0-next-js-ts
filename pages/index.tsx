@@ -7,6 +7,9 @@ const Home: NextPage = () => {
       <a href="./api/auth/login" className="login">
         Login
       </a>
+      <a href="./api/auth/logout" className="login">
+        Logout
+      </a>
     </div>
   );
 };
