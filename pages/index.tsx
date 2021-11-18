@@ -4,7 +4,7 @@ import styles from '../styles/Home.module.css';
 const Home: NextPage = () => {
   return (
     <div className={styles.container}>
-      <a href="./api/auth/" className="login">
+      <a href="./api/auth/login" className="login">
         Login
       </a>
     </div>
